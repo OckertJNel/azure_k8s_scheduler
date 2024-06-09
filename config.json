@@ -1,0 +1,6 @@
+{
+  "client_id": "YOUR_API_KEY",
+  "client_secret": "YOUR_API_SECRET",
+  "token_endpoint": "https://login.microsoftonline.com/dc0b56e3-2d8e-40f9-9a8d-7481a727ab98/oauth2/v2.0/token",
+  "timeout_seconds": 30
+}
